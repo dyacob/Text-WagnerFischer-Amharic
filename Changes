@@ -1,0 +1,16 @@
+0.04 Sat Feb  1 22:40:51 EST 2025
+	- Fixes as per CPANTS:
+	  + Added 'use warnings'.
+	  + Added MIN_PERL_VERSION to Makefile.PL
+
+0.03 Fri Jan 31 07:07:12 EST 2025
+	- Fixes as per CPANTS:
+	  + LICENSE added.
+	  + packaged with GNU tar.
+
+0.02 Wed Jan 29 07:00:20 EST 2025
+	- encoding fix for POD documentation.
+	- clarification text for examples added.
+
+0.01 Sat Apr 12 21:23:09 EDT 2003
+	- initial release.
