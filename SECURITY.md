@@ -16,7 +16,7 @@ https://security.metacpan.org/docs/guides/security-policy-for-authors.html
 
 Security vulnerabilities can be reported by e-mail to the current
 project maintainers at Daniel Yacob <dyacob@cpan.org>. If you have
-a GitHub account, please open an [issue](https://github.com/dyacob/Convert-CEGH/issues) and
+a GitHub account, please open an [issue](https://github.com/dyacob/Text-WagnerFischer-Amharic/issues) and
 add the *Security* label to the issue if you can.
 
 Please include as many details as possible, including code samples

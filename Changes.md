@@ -1,4 +1,8 @@
-# Revision History for the Convert::CEGH Perl Distribution
+# Revision History for the Text::WagnerFischer::Amharic Perl Distribution
+
+## 0.06 Sate Sat Feb  8 11:23:26 EST 2025
+	- Package name fix in CONTRIBUTING.md
+	- Package name fix in Changes.md title
 
 ## 0.05 Sat Feb  8 07:40:11 EST 2025
 	- Migration to a Build.PL & GitHub system.

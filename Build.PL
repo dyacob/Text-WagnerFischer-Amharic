@@ -12,7 +12,7 @@ my $builder = Module::Build->new(
 	requires 		=> {
 		'perl'			=> '5.8.0',
 		'Regexp::Ethiopic'	=> '0.06',
-		'Text::WagnerFischer' => '0.03'
+		'Text::WagnerFischer' 	=> '0.03'
 	},
 	license			=> 'perl',
 	add_to_cleanup		=> [ 'Text-*' ],

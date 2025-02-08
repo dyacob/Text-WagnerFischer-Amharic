@@ -15,7 +15,7 @@ name: Text-WagnerFischer-Amharic
 provides:
   Text::WagnerFischer::Amharic:
     file: lib/Text/WagnerFischer/Amharic.pm
-    version: '0.05'
+    version: '0.06'
 requires:
   Regexp::Ethiopic: '0.06'
   Text::WagnerFischer: '0.03'
@@ -25,6 +25,6 @@ resources:
   homepage: https://github.com/dyacob/Text-WagnerFischer-Amharic
   license: http://dev.perl.org/licenses/
   repository: https://github.com/dyacob/Text-WagnerFischer-Amharic.git
-version: '0.05'
+version: '0.06'
 x_authority: cpan:dyacob
 x_serialization_backend: 'CPAN::Meta::YAML version 0.018'
