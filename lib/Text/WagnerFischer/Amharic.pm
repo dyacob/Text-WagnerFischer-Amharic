@@ -10,7 +10,7 @@ use vars qw( @EXPORT_OK %IMCapsMismatch $VERSION );
 
 use Regexp::Ethiopic::Amharic ( 'getForm', 'setForm', ':forms' );
 
-	$VERSION = "0.04";
+	$VERSION = "0.05";
 	#
 	# This linking is done so that the export of "distance" works
 	# as before:
