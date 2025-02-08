@@ -176,7 +176,7 @@ Amharic weight function recognizes 7 additional mismatch types:
            |    g: x =~ [=y=]                  (cost of grapheme mismatch)
            |    h: x is a shift-slip of y      (cost of shift key mismatch)
            |    i: else                        (cost of wrong base)
-           \  j: x =~ [=y=]  (cost of wrong grapheme and form, right phoneme)
+            \ j: x =~ [=y=]  (cost of wrong grapheme and form, right phoneme)
 
 These costs are given through an array reference as an option first argument
 of the C<distance> subroutine (see SYNOPSIS).
